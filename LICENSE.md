@@ -1,1 +1,1 @@
-Copyright (C) 2026 [Teu Nome Completo]. Todos os direitos reservados.
+Copyright (C) 2026 [Bruno Joaquim Lino]. Todos os direitos reservados.
