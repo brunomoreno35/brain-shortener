@@ -104,7 +104,7 @@ app.get('/api/shorten', (req, res) => {
     guardarBaseDados(db);
     res.json({
         status: "success",
-        shortenedUrl: req.protocol + "://" + req.get('host') + "/s/" + codigoCurto
+        shortenedUrl: "https://" + req.get('host') + "/s/" + codigoCurto
     });
 });
 
