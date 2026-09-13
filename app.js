@@ -46,11 +46,14 @@ const htmlContent = `<!DOCTYPE html>
 <div class="container">
     <h2>O seu link está quase pronto!</h2>
     <p style="color: #94a3b8; margin-top:0;">Aguarde o validador do sistema terminar.</p>
-    <div class="espaco-anuncio">[ ANÚNCIO BANNER SUPERIOR ]</div>
+    <div class="espaco-anuncio"> <script async="async" data-cfasync="false" src="https://pl31318395.profitableratecpmnetwork.com/372c566ad1cb2526581cefe55fb5de58/invoke.js"></script>
+<div id="container-372c566ad1cb2526581cefe55fb5de58"></div>
+ </div>
     <div id="contador">A verificar segurança em: 10 segundos...</div>
     <button id="btnAguardar" class="btn btn-loading">A processar link...</button>
     <button id="btnAvancar" class="btn btn-ready" onclick="redirecionar()">OBTER LINK</button>
-    <div class="espaco-anuncio">[ ANÚNCIO BANNER INFERIOR ]</div>
+    <div class="espaco-anuncio"> <script src="https://pl31318394.profitableratecpmnetwork.com/c7/f6/ca/c7f6caeb0eec9a13dbab95bbb8b32154.js"></script>
+</div>
 </div>
 <script>
     let segundos = 10;
